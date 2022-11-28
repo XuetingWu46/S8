@@ -1,20 +1,13 @@
 # Video presentation of different functions
 
-## Register and login users 
-<iframe src="https://github.com/XuetingWu46/S8/blob/main/user_demo/register%26login.mp4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"  width="700px" height="520px"> </iframe>
+>1. Register and login users. Please watch [this video](https://github.com/XuetingWu46/S8/blob/main/user_demo/register%26login.mp4).
 
+>2. Search for financial instruments by ticker, common name, or other terms. Please watch [this video](https://github.com/XuetingWu46/S8/blob/main/user_demo/search.mp4).
 
-## Search for financial instruments by ticker, common name, or other terms
-<iframe src="https://github.com/XuetingWu46/S8/blob/main/user_demo/search.mp4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"  width="700px" height="520px"> </iframe>
+>3. View information on the financial instrument (Realtime price, Historical price and News). Please watch [this video](https://github.com/XuetingWu46/S8/blob/main/user_demo/view%20information.mp4).
 
-## View information on the financial instrument (Realtime price, Historical price and News)
-<iframe src="https://github.com/XuetingWu46/S8/blob/main/user_demo/view%20information.mp4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"  width="700px" height="520px"> </iframe>
+>4. Follow the financial instrument in the process adding it to their watch list (portfolio). Please watch [this video](hhttps://github.com/XuetingWu46/S8/blob/main/user_demo/Add_to_list.mp4).
 
-## Follow the financial instrument in the process adding it to their watch list (portfolio)
-<iframe src="https://github.com/XuetingWu46/S8/blob/main/user_demo/Add_to_list.mp4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"  width="700px" height="520px"> </iframe>
+>5. Manage their watch list by removing financial instruments. Please watch [this video](https://github.com/XuetingWu46/S8/blob/main/user_demo/delete.mp4)
 
-## Manage their watch list by removing financial instruments
-<iframe src="https://github.com/XuetingWu46/S8/blob/main/user_demo/delete.mp4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"  width="700px" height="520px"> </iframe>
-
-## Have an overview of the losses and gains in their portfolio
-<iframe src="https://github.com/XuetingWu46/S8/blob/main/user_demo/loss%26gain.mp4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"  width="700px" height="520px"> </iframe>
+>6. Have an overview of the losses and gains in their portfolio. Please watch [this video](https://github.com/XuetingWu46/S8/blob/main/user_demo/loss%26gain.mp4)
