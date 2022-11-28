@@ -1,8 +1,8 @@
 The framework I adopted for this challenge is React Native. And I applied other third-party services such as Firebase, Alpha Vantage and Algolia. Check out the main feature demo video in [folder](https://github.com/XuetingWu46/S8/blob/main/User%20Manual.md). Part of screenshots will be shown next.<br>
-<img src="https://github.com/XuetingWu46/S8/blob/main/document/screenshot1.png" width="200" height="355,56"> 
-<img src="https://github.com/XuetingWu46/S8/blob/main/document/screenshot2.png" width="200" height="355,56"> <img src="https://github.com/XuetingWu46/S8/blob/main/document/screenshot3.png" width="200" height="355,56">
-<img src="https://github.com/XuetingWu46/S8/blob/main/document/screenshot4.png" width="200" height="355,56"> 
-<img src="https://github.com/XuetingWu46/S8/blob/main/document/screenshot5.png" width="200" height="355,56">  
+<img src="https://github.com/XuetingWu46/S8/blob/main/document/screenshot1.png" width="260" height="400"> 
+<img src="https://github.com/XuetingWu46/S8/blob/main/document/screenshot2.png" width="260" height="400"> <img src="https://github.com/XuetingWu46/S8/blob/main/document/screenshot3.png" width="260" height="3 400">
+<img src="https://github.com/XuetingWu46/S8/blob/main/document/screenshot4.png" width="260" height="400"> 
+<img src="https://github.com/XuetingWu46/S8/blob/main/document/screenshot5.png" width="260" height="400">  
 
 
 ## Code Design & Structure
@@ -14,9 +14,9 @@ There are 4 directories in the _src_ directory of project.   <br>
 
 ## Features
 1. **Register and login users via Phone Number (Account / Username) and Password (OTP)**
-<br>During development, as shown in the _screenshot_, I used the Firebase Authentication feature to try to authenticate the registration. But it was only successfully verified twice on the Android emulator as the record shown in this _screenshot_. After many attempts, this feature still hasn't been completed. Therefore, when the user uses it, the user can enter the follow-up operation of the project by providing any phone number and OTP in the registration and login interface. I also applied RealTime Database in Firebase to manage accounts. <br>
+<br>During development, as shown in the _screenshot_,<img src="https://github.com/XuetingWu46/S8/blob/main/document/firebase_auth1.png" width="400" height="300"> I used the Firebase Authentication feature to try to authenticate the registration. But it was only successfully verified twice on the Android emulator as the record shown in this _screenshot_.<img src="https://github.com/XuetingWu46/S8/blob/main/document/firebase_auth2.png" width="400" height="300"> After many attempts, this feature still hasn't been completed. For demonstration of failed attempts, check out this [video](https://github.com/XuetingWu46/S8/blob/main/document/loading_error.mp4). Therefore, when the user uses it, the user can enter the follow-up operation of the project by providing any phone number and OTP in the registration and login interface. I also applied RealTime Database in Firebase to manage accounts. <br>
 2. **Search for financial instruments by ticker, common name, or other terms**
-<br>I applied Algolia in order to implement this feature. As shown in the _screenshot_, I obtained Financial instrument data from the Alpha Vantage API and uploaded it to algolia in csv format.
+<br>I applied Algolia in order to implement this feature. As shown in the _screenshot_,<img src="https://github.com/XuetingWu46/S8/blob/main/document/algolia.png" width="400" height="300"> I obtained Financial instrument data from the Alpha Vantage API and uploaded it to algolia in csv format.
  
 3. **View information on the financial instrument:<br>
 Realtime price of the financial instrument.<br>
